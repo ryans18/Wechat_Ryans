@@ -4,8 +4,9 @@ page {
   padding-top: 54rpx;
   background-color: #f6f6f6;
   padding-bottom: 60rpx;
+  background-image: '../../images/database.png';
+  background-color: aqua;
 }
-
 .title {
   font-family: PingFang SC;
   font-weight: 500;
@@ -91,4 +92,5 @@ page {
   color: rgba(0, 0, 0, 0.4);
   font-size: 24rpx;
   margin-top: 25%;
+  text-align: center;
 }
