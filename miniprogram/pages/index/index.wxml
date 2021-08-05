@@ -1,7 +1,8 @@
 <!--index.wxml-->
 <view class="container">
-
-
-  <view>今天是{{date}}天啦</view>
+  <image class="img-bag" src="./images/bag.jpeg"/>
+  <view class="content">
+    <view>今天是{{date}}天啦</view>
+    <view class="environment" >Ryans Ren</view>
+  </view>
 </view>
-<view class="environment" >Prowerd by Ryans Ren</view>
